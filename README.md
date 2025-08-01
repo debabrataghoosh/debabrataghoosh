@@ -16,15 +16,22 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/debabrata-ghosh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
+  &nbsp;
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="Twitter/X" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X (Twitter)" width="30" height="30" />
   </a>
+  &nbsp;
   <a href="https://discord.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" height="30" />
   </a>
 </p>
+
 ---
 
 ### 🛠️ Languages and Tools:
