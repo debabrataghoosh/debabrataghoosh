@@ -1,44 +1,80 @@
-# Hi! I'm Debabrata Ghosh
+<h1 align="center">Hi 👋, I'm Debabrata Ghosh</h1>
+<h3 align="center">A passionate full-stack developer and tech enthusiast from India 🇮🇳</h3>
 
-### A passionate programmer, full-stack developer from India.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DebabrataGhosh&label=Profile%20views&color=0e75b6&style=flat" alt="DebabrataGhosh" /> </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=DebabrataGhosh&color=green)
-
-- 🛠️ I'm currently working on: **Full Stack Projects**
-- 🌱 I'm currently learning: **System Design, DSA, and TypeScript**
-- 📫 Reach me at: [debabrata1042003@gmail.com](mailto:debabrata1042003@gmail.com)
-
----
-
-I’m a passionate Software Developer & Tech Enthusiast who enjoys building products that make an impact. I’m currently sharpening my skills in system design, backend services, and cloud technologies.
-
-I enjoy contributing to open-source, participating in hackathons, and exploring cutting-edge tech. When I'm not coding, I'm probably helping peers, working on side projects, or improving my GitHub profile 😊
+- 🔭 I’m currently working on **AgroTrade and BlockDefender**  
+- 🌱 I’m currently learning **System Design, TypeScript, and Deep DSA**  
+- 👯 I’m looking to collaborate on **AI, Web3, and Open Source Projects**  
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Blockchain Security**  
+- 📫 Reach me at **debabrata1042003@gmail.com**  
+- 📄 Know more about my work at [My LinkedIn](https://www.linkedin.com/in/debabrata-ghosh/)  
+- ⚡ Fun fact: **I love debugging and optimizing code like a puzzle 🧩**
 
 ---
 
-### 📲 Connect with me:
+### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/debabrata-ghosh/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=vercel)](https://your-portfolio-link.vercel.app)
+<p align="left">
+<a href="https://www.linkedin.com/in/debabrata-ghosh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" /></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" height="30" width="30" /></a>
+</p>
 
 ---
 
-### 🚀 Languages and Tools:
+### 🛠️ Languages and Tools:
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebabrataGhosh&show_icons=true&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DebabrataGhosh&show_icons=true&theme=github_dark" alt="Debabrata's GitHub stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebabrataGhosh&theme=github-dark" alt="GitHub Streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataGhosh&layout=compact&theme=github_dark" alt="Top Langs"/>
+</p>
 
 ---
+
+### ✍️ Blog / Articles
+
+Coming soon...
+
+---
+
+### 🚀 Projects
+
+- 🔒 [BlockDefender](https://github.com/DebabrataGhosh/BlockDefender) – Detect blockchain scams with AI
+- 🌾 [AgroTrade](https://github.com/DebabrataGhosh/AgroTrade) – Buy/sell agricultural crops online with real-time chat
+
+---
+
+### 🎯 Goal for 2025
+> Crack a top tech job or internship, contribute to open source, and build 3 high-impact products 🚀
+
+---
+
