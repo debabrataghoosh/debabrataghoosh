@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DebabrataGhosh&label=Profile%20views&color=0e75b6&style=flat" alt="DebabrataGhosh" /> </p>
 
-- 🔭 I’m currently working on **AgroTrade and BlockDefender**  
 - 🌱 I’m currently learning **System Design, TypeScript, and Deep DSA**  
 - 👯 I’m looking to collaborate on **AI, Web3, and Open Source Projects**  
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Blockchain Security**  
@@ -12,25 +11,23 @@
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/debabrata-ghosh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  <a href="https://www.linkedin.com/in/debabrataghosh" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="40" style="margin-right: 10px;" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X (Twitter)" width="30" height="30" />
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/15707/15707749.png" alt="Instagram" height="40" style="margin-right: 10px;" />
   </a>
-  &nbsp;
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="30" height="30" />
-  </a>
-  &nbsp;
   <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="YouTube" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://x.com/debabrataghosh" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" height="40" style="margin-right: 10px;" />
   </a>
 </p>
+
 
 ---
 
@@ -62,27 +59,12 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebabrataGhosh&theme=github-dark" alt="GitHub Streak"/>
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataGhosh&layout=compact&theme=github_dark" alt="Top Langs"/>
 </p>
 
 ---
 
-### ✍️ Blog / Articles
 
-Coming soon...
-
----
-
-### 🚀 Projects
-
-- 🔒 [BlockDefender](https://github.com/DebabrataGhosh/BlockDefender) – Detect blockchain scams with AI
-- 🌾 [AgroTrade](https://github.com/DebabrataGhosh/AgroTrade) – Buy/sell agricultural crops online with real-time chat
-
----
 
 ### 🎯 Goal for 2025
 > Crack a top tech job or internship, contribute to open source, and build 3 high-impact products 🚀
