@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on **AI, Web3, and Open Source Projects**  
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Blockchain Security**  
 - 📫 Reach me at **debabrata1042003@gmail.com**  
-- 📄 Know more about my work at [My LinkedIn](https://www.linkedin.com/in/debabrata-ghosh/)  
 - ⚡ Fun fact: **I love debugging and optimizing code like a puzzle 🧩**
 
 ---
@@ -16,11 +15,16 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/debabrata-ghosh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" /></a>
-<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/debabrata-ghosh/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="Twitter/X" width="30" height="30"/>
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="30" height="30"/>
+  </a>
 </p>
-
 ---
 
 ### 🛠️ Languages and Tools:
