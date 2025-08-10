@@ -55,11 +55,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DebabrataGhosh&show_icons=true&theme=github_dark" alt="Debabrata's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=debabrataghoosh&show_icons=true&theme=github_dark" alt="Debabrata's GitHub stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataGhosh&layout=compact&theme=github_dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debabrataghoosh&layout=compact&theme=github_dark" alt="Top Langs"/>
 </p>
 
 ---
