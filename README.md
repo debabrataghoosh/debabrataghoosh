@@ -15,16 +15,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/debabrataghosh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="40" style="margin-right: 10px;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/15707/15707749.png" alt="Instagram" height="40" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" height="40" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="YouTube" height="40" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" height="40" width="40" />
   </a>
   <a href="https://x.com/debabrataghosh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" height="40" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="X" height="40"  width="40" />
   </a>
 </p>
 
@@ -57,6 +57,7 @@
   <img src="https://axios-http.com/assets/favicon.ico" alt="Axios" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" height="40"/>
   <img src="https://swiperjs.com/images/swiper-logo.svg" alt="SwiperJS" width="40" height="40"/>
+  <img src="https://pipedream.com/s.v0/app_dBhw8k/logo/orig" alt="Clerk" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQGluJhW7I1NYU7jF77E-9K9I46_ib_DUNHw&s" alt="Stripe" width="40" height="40"/>
 
   
