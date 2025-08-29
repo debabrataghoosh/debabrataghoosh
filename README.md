@@ -59,6 +59,10 @@
   <img src="https://swiperjs.com/images/swiper-logo.svg" alt="SwiperJS" width="40" height="40"/>
   <img src="https://pipedream.com/s.v0/app_dBhw8k/logo/orig" alt="Clerk" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQGluJhW7I1NYU7jF77E-9K9I46_ib_DUNHw&s" alt="Stripe" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/2229b9c6-06f4-4fea-ad99-01c4cd46616c" alt="Scikik learn" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/354240/pytorch.svg" alt="Scikik learn" width="40" height="40" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/opencv_logo_icon_170887.png" alt="Scikik learn" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Scikik learn" width="40" height="40" />
 
   
   <!-- AI / Data Science -->
