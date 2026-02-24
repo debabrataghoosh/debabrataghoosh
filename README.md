@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/yourusername" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" height="40" width="40" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <a href="https://www.youtube.com/channel/UC1nRx_0YXjD4apgdmfH8-KQ" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" height="40" width="40" />
   </a>
   <a href="https://x.com/debabrataghosh" target="_blank">
